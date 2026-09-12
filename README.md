@@ -10,4 +10,6 @@ Este proyecto tiene como proposito aplicar los conocimientos adquiridos en algor
 
 Para esta primer entrega, se entrega el pseudocodigo del programa capaz de encontrar archivos por coincidencias en su nombre, con posibilidad de mejora y expansion a futuras entregas.
 
-Programa Fase 1:
+Programa Fase 1: Entregado
+Programa Fase 2: Entregado
+Programa Fase 3: Entregado
