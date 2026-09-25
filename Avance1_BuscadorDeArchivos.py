@@ -1,6 +1,6 @@
 # ENTRADAS
-# carpeta - texto (ruta de la carpeta donde se realizará la búsqueda)
-# nombre_buscado - texto (nombre o parte del nombre del archivo)
+# carpeta - texto 
+# nombre_buscado - texto 
 
 # PROCESO
 # FUNCION buscar_archivos(carpeta, nombre_buscado)
@@ -37,5 +37,5 @@
 
 # SALIDAS
 # total_encontrados - número entero
-# resultados - lista de texto (rutas completas de los archivos encontrados)
-# porcentaje_coincidencia - número decimal (% de archivos que coincidieron respecto al total revisado)
+# resultados - lista de texto 
+# porcentaje_coincidencia - número decimal 
