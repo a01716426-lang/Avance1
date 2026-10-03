@@ -12,16 +12,16 @@ Para esta primera entrega, se entrega el pseudocódigo del programa capaz de enc
 
 EL CÓDIGO SE ENCUENTRA EN OTRO ARCHIVO DEL REPOSITORIO EN EL ARCHIVO "Avance1_BuscadorDeArchivos". 
 
-Programa Fase 1: Entregado /
-Programa Fase 2: Entregado /
-Programa Fase 3: Entregado /
-Programa Fase 4: Entregado /
+- Programa Fase 1: Entregado /
+- Programa Fase 2: Entregado /
+- Programa Fase 3: Entregado /
+- Programa Fase 4: Entregado /
 
 Se introduce un nuevo archivo con el nombre de "pseudocodigo.md" donde se guardará el pseudocódigo.
 Al archivo "Avance1_BuscadorDeArchivos.py" se le cambiará el pseudocódigo a código además de cambiar el nombre del archivo a "buscador_de_archivos.py".
-Especifico que en el código dejé líneas con "#" para entender mejor lo que se está realizando, (No contienen códigos).
+Especifico que en el código dejé líneas con "#" para entender mejor lo que se está realizando, (no contienen código).
 
-Agrego las fuentes de la seeción agregada e investigada de líneas 9-20.
+Agrego las fuentes de la sección agregada e investigada de líneas 9-20.
 - Python Software Foundation. (s. f.). os — Miscellaneous operating system interfaces: os.walk. https://docs.python.org/3/library/os.html#os.walk
 - W3Schools. (s. f.). Python os.walk() method. https://www.w3schools.com/python/ref_os_walk.asp
 - TutorialsPoint. (s. f.). Python os.walk() method. https://www.tutorialspoint.com/python/os_walk.htm
@@ -29,6 +29,6 @@ Agrego las fuentes de la seeción agregada e investigada de líneas 9-20.
 - Ortiz, A., & Martínez, Y. (s. f.). Convenciones de estilo para Python [Material de curso]. TC1028 Pensamiento Computacional para Ingeniería, Tecnológico de Monterrey.
 - van Rossum, G., Warsaw, B., & Coghlan, N. (2001). PEP 8 – Style guide for Python code. https://peps.python.org/pep-0008/
 
-Nicolás Fernández Ocaña
-A01716426
-Fundamentos de Programación
+- Nicolás Fernández Ocaña
+- A01716426
+- Fundamentos de Programación
