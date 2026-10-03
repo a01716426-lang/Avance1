@@ -29,6 +29,8 @@ Agrego las fuentes de la sección agregada e investigada de líneas 9-20.
 - Ortiz, A., & Martínez, Y. (s. f.). Convenciones de estilo para Python [Material de curso]. TC1028 Pensamiento Computacional para Ingeniería, Tecnológico de Monterrey.
 - van Rossum, G., Warsaw, B., & Coghlan, N. (2001). PEP 8 – Style guide for Python code. https://peps.python.org/pep-0008/
 
+____________________________________________
+
 - Nicolás Fernández Ocaña
 - A01716426
 - Fundamentos de Programación
