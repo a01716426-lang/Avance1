@@ -16,6 +16,8 @@ EL CÓDIGO SE ENCUENTRA EN OTRO ARCHIVO DEL REPOSITORIO EN EL ARCHIVO "Avance1_B
 - Programa Fase 2: Entregado /
 - Programa Fase 3: Entregado /
 - Programa Fase 4: Entregado /
+- Programa Fase 5: Entregado /
+- Programa Fase 6: Entregado /
 
 Se introduce un nuevo archivo con el nombre de "pseudocodigo.md" donde se guardará el pseudocódigo.
 Al archivo "Avance1_BuscadorDeArchivos.py" se le cambiará el pseudocódigo a código además de cambiar el nombre del archivo a "buscador_de_archivos.py".
