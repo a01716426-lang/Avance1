@@ -14,10 +14,10 @@ def buscar_archivos(carpeta, nombre_buscado):
         for archivo in archivos:
             total_archivos_revisados = total_archivos_revisados + 1
         #SI nombre_buscado ESTA CONTENIDO en el nombre del archivo ENTONCES
-        if nombre_buscado.lower() in archivo.lower():
-            #GUARDAR ruta completa del archivo en resultados
-            resultados.append(os.path.join(ruta_actual, archivo))
-            total_encontrados = total_encontrados + 1
+            if nombre_buscado.lower() in archivo.lower():
+                #GUARDAR ruta completa del archivo en resultados
+                resultados.append(os.path.join(ruta_actual, archivo))
+                total_encontrados = total_encontrados + 1
     
     #EVITAR DIVISION ENTRE CERO SI NO SE REVISO NINGUN ARCHIVO
     if total_archivos_revisados == 0:
