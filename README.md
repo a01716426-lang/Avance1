@@ -18,10 +18,24 @@ EL CÓDIGO SE ENCUENTRA EN OTRO ARCHIVO DEL REPOSITORIO EN EL ARCHIVO "Avance1_B
 - Programa Fase 4: Entregado /
 - Programa Fase 5: Entregado /
 - Programa Fase 6: Entregado /
+- Programa Fase 7: Entregado /
 
 Se introduce un nuevo archivo con el nombre de "pseudocodigo.md" donde se guardará el pseudocódigo.
 Al archivo "Avance1_BuscadorDeArchivos.py" se le cambiará el pseudocódigo a código además de cambiar el nombre del archivo a "buscador_de_archivos.py".
 Especifico que en el código dejé líneas con "#" para entender mejor lo que se está realizando, (no contienen código).
+
+Justificación sobre las listas anidadas (matrices) Avance 7
+
+En mi proyecto decidí no usar listas anidadas porque no las necesito. Mi
+programa busca archivos por nombre dentro de una carpeta y sus subcarpetas,
+y cuando encuentra uno solo guarda su ruta. Como es un solo dato por
+archivo, con una lista normal (resultados) me alcanza para guardar, contar y
+mostrar los resultados.
+Entendí que una matriz sirve cuando de cada elemento se guardan varios datos,
+por ejemplo la ruta, la extensión y el tamaño de cada archivo, donde cada
+fila sería un archivo y cada columna un dato. Mi programa no guarda esos
+datos, así que si usara una matriz solo haría el código más complicado sin
+que el programa funcione mejor.
 
 Agrego las fuentes de la sección agregada e investigada de líneas 9-20.
 - Python Software Foundation. (s. f.). os — Miscellaneous operating system interfaces: os.walk. https://docs.python.org/3/library/os.html#os.walk
